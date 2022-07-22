@@ -11,3 +11,6 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.c1 {text-decoration: none; color:#000; text-align: center;}
+.c1:hover {color: green;}
